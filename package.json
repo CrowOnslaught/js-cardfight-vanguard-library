@@ -1,0 +1,28 @@
+{
+  "name": "ts-cardfight-vanguard-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "lib/index.js",
+  "module": "lib/index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "keywords": ["cardfight", "vanguard", "api", "cards", "cardfight! vanguard"],
+  "author": "crow-onslaught",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.70.1",
+    "rollup-plugin-typescript2": "^0.31.2",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "prettier": "^2.6.2"
+  },
+  "files": [
+    "lib",
+    "package.json"
+  ]
+}
