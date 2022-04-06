@@ -8,8 +8,8 @@ const getCards = async (page?: number) => {
         page || 1
       }`
     );
-    console.log(response);
-    return response;
+    
+    return response.data.data;
   } catch {
     return 'error';
   }
@@ -21,7 +21,6 @@ const getCard = async (params: Record<string, string>) => {
     const response = await axios.get(
       `https://card-fight-vanguard-api.ue.r.appspot.com/api/v1/card?${qs}`
     );
-    console.log(response);
     return response;
   } catch {
     return 'error';

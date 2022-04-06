@@ -6,8 +6,7 @@ const getSets = async () => {
     const response = await axios.get(
       `https://card-fight-vanguard-api.ue.r.appspot.com/api/v1/sets`
     );
-    console.log(response);
-    return response;
+    return response.data.sets;
   } catch {
     return 'error';
   }
