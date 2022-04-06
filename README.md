@@ -24,6 +24,7 @@ const response = await getCards();
 console.log(response);
 //{ data: Array[50], paging: { page: 1, pagesize: 50 } }
 ```
+
 ```
 import { getCards } from 'ts-cardfight-vanguard-api';
 
@@ -40,7 +41,7 @@ Returns a card from the api. It allows parameters with provided `id`
 ```
 import { getCard } from 'ts-cardfight-vanguard-api';
 
-const data = getCards(1);
+const data = await getCards(1);
 console.log(data)
 // { name, clan, grade, ... }
 
