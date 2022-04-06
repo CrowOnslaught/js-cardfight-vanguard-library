@@ -1,0 +1,1 @@
+# js-cardfight-vanguard-library
