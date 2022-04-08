@@ -1,4 +1,4 @@
-# ts-cardfight-vanguard-library
+# ts-cardfight-vanguard-api
 
 ![coverage-functions](https://raw.githubusercontent.com/CrowOnslaught/js-cardfight-vanguard-library/master/coverage/badge-functions.svg)
 ![coverage-lines](https://raw.githubusercontent.com/CrowOnslaught/js-cardfight-vanguard-library/master/coverage/badge-lines.svg)
