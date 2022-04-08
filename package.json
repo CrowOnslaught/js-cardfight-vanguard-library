@@ -30,15 +30,12 @@
   },
   "badges": [],
   "devDependencies": {
-    "@types/jest": "^27.4.1",
-    "@typescript-eslint/eslint-plugin": "^5.18.0",
-    "@typescript-eslint/parser": "^5.18.0",
-    "eslint": "^8.12.0",
-    "jest": "^27.5.1",
-    "rollup": "^2.70.1",
-    "rollup-plugin-typescript2": "^0.31.2",
-    "ts-jest": "^27.1.4",
-    "typescript": "^4.6.3"
+    "@types/jest": "27.4.1",
+    "jest": "27.5.1",
+    "rollup": "2.70.1",
+    "rollup-plugin-typescript2": "0.31.2",
+    "ts-jest": "27.1.4",
+    "typescript": "4.6.3"
   },
   "dependencies": {
     "axios": "^0.26.1",
