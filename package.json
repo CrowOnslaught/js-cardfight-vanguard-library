@@ -8,7 +8,9 @@
   "scripts": {
     "test": "jest --coverage",
     "build": "rollup -c",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "test:coverage": "npm test -- --coverage",
+    "test:badges": "npm run test:coverage  && jest-coverage-badges"
   },
   "keywords": [
     "cardfight",
@@ -55,6 +57,11 @@
       "js",
       "jsx",
       "json"
+    ],
+    "coverageReporters": [
+      "json-summary", 
+      "text",
+      "lcov"
     ]
   }
 }
