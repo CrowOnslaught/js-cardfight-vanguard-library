@@ -1,6 +1,6 @@
 {
   "name": "ts-cardfight-vanguard-api",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A typescript based library that fetches data (using axios) from card-fight-vanguard-api created by Brent Pappas. Look at his documentation for more information.",
   "type": "module",
   "main": "lib/index.js",
