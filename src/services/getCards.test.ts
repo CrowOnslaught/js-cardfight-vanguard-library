@@ -19,7 +19,6 @@ describe('getCards test', () => {
   });
   test('fetch wrong card', async () => {
     const response = await getCard(-1);
-    console.log(response);
     expect(response).toBeTruthy();
     expect(response.error).toBeTruthy();
   });
