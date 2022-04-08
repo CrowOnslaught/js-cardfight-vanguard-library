@@ -1,5 +1,12 @@
 # ts-cardfight-vanguard-library
 
+![coverage-functions](https://raw.githubusercontent.com/CrowOnslaught/js-cardfight-vanguard-library/master/coverage/badge-functions.svg)
+![coverage-lines](https://raw.githubusercontent.com/CrowOnslaught/js-cardfight-vanguard-library/master/coverage/badge-lines.svg)
+![license](https://img.shields.io/github/license/crowonslaught/js-cardfight-vanguard-library)
+![downloads](https://img.shields.io/npm/dt/ts-cardfight-vanguard-api)
+![version](https://img.shields.io/npm/v/ts-cardfight-vanguard-api)
+[![coffe](https://img.shields.io/badge/buy%20me%20a%20coffe-donate-yellowgreen)](https://www.buymeacoffee.com/CrowOnslaught)
+
 ## introduction
 
 A typescript based library that fetches data (using [axios](https://www.npmjs.com/package/axios)) from [card-fight-vanguard-api](https://card-fight-vanguard-api.ue.r.appspot.com/api/v1/docs) created by [Brent Pappas](https://pappasbrent.com).
