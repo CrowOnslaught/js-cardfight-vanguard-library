@@ -33,4 +33,7 @@ const getCard = async (id: number) => {
   }
 };
 
-export { getCards, getCard };
+
+
+ 
+export { getCards, getCard }
