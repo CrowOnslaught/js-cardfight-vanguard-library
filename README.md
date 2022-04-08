@@ -70,6 +70,7 @@ console.log(response);
 - [Brent Papas CardFight Vanguard Api](https://card-fight-vanguard-api.ue.r.appspot.com/api/v1/docs)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Prettier](https://www.npmjs.com/package/prettier)
+- [Jest](https://www.npmjs.com/package/jest)
 
 ## Credits
 
