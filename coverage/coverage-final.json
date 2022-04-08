@@ -1,0 +1,412 @@
+{
+  "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\index.ts": {
+    "path": "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\index.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 3, "column": 0 },
+        "end": { "line": 3, "column": 9 }
+      },
+      "1": {
+        "start": { "line": 6, "column": 9 },
+        "end": { "line": 3, "column": 19 }
+      },
+      "2": {
+        "start": { "line": 6, "column": 19 },
+        "end": { "line": 3, "column": 56 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 0 },
+        "end": { "line": 4, "column": 9 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 28 },
+        "end": { "line": 4, "column": 45 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 6, "column": 9 },
+          "end": { "line": 6, "column": 17 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 9 },
+          "end": { "line": 3, "column": 19 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 6, "column": 19 },
+          "end": { "line": 6, "column": 26 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 19 },
+          "end": { "line": 3, "column": 56 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": { "line": 6, "column": 28 },
+          "end": { "line": 6, "column": 35 }
+        },
+        "loc": {
+          "start": { "line": 6, "column": 28 },
+          "end": { "line": 4, "column": 45 }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 2, "1": 4, "2": 4, "3": 2, "4": 3 },
+    "f": { "0": 2, "1": 2, "2": 1 },
+    "b": {}
+  },
+  "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\helpers\\utils.ts": {
+    "path": "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\helpers\\utils.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 28 },
+        "end": { "line": 8, "column": 1 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 14 },
+        "end": { "line": 2, "column": 16 }
+      },
+      "2": {
+        "start": { "line": 3, "column": 2 },
+        "end": { "line": 6, "column": null }
+      },
+      "3": {
+        "start": { "line": 4, "column": 4 },
+        "end": { "line": 6, "column": null }
+      },
+      "4": {
+        "start": { "line": 5, "column": 6 },
+        "end": { "line": 5, "column": 73 }
+      },
+      "5": {
+        "start": { "line": 7, "column": 2 },
+        "end": { "line": 7, "column": 23 }
+      },
+      "6": {
+        "start": { "line": 10, "column": 9 },
+        "end": { "line": 10, "column": 28 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 1, "column": 28 },
+          "end": { "line": 1, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 56 },
+          "end": { "line": 8, "column": 1 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 4, "column": 4 },
+          "end": { "line": 6, "column": null }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 4, "column": 4 },
+            "end": { "line": 6, "column": null }
+          }
+        ]
+      }
+    },
+    "s": { "0": 2, "1": 2, "2": 2, "3": 4, "4": 4, "5": 2, "6": 2 },
+    "f": { "0": 2 },
+    "b": { "0": [4] }
+  },
+  "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\services\\getCards.ts": {
+    "path": "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\services\\getCards.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 0 },
+        "end": { "line": 1, "column": 55 }
+      },
+      "1": {
+        "start": { "line": 2, "column": 14 },
+        "end": { "line": 2, "column": 38 }
+      },
+      "2": {
+        "start": { "line": 4, "column": 17 },
+        "end": { "line": 20, "column": 2 }
+      },
+      "3": {
+        "start": { "line": 4, "column": 55 },
+        "end": { "line": 20, "column": 2 }
+      },
+      "4": {
+        "start": { "line": 6, "column": 8 },
+        "end": { "line": 6, "column": 41 }
+      },
+      "5": {
+        "start": { "line": 7, "column": 4 },
+        "end": { "line": 7, "column": 29 }
+      },
+      "6": {
+        "start": { "line": 9, "column": 10 },
+        "end": { "line": 9, "column": 48 }
+      },
+      "7": {
+        "start": { "line": 10, "column": 21 },
+        "end": { "line": 12, "column": null }
+      },
+      "8": {
+        "start": { "line": 10, "column": 10 },
+        "end": { "line": 12, "column": null }
+      },
+      "9": {
+        "start": { "line": 14, "column": 4 },
+        "end": { "line": 14, "column": 57 }
+      },
+      "10": {
+        "start": { "line": 14, "column": 24 },
+        "end": { "line": 14, "column": 57 }
+      },
+      "11": {
+        "start": { "line": 16, "column": 4 },
+        "end": { "line": 16, "column": 25 }
+      },
+      "12": {
+        "start": { "line": 18, "column": 4 },
+        "end": { "line": 18, "column": 24 }
+      },
+      "13": {
+        "start": { "line": 36, "column": 9 },
+        "end": { "line": 36, "column": 17 }
+      },
+      "14": {
+        "start": { "line": 22, "column": 16 },
+        "end": { "line": 34, "column": 2 }
+      },
+      "15": {
+        "start": { "line": 22, "column": 33 },
+        "end": { "line": 34, "column": 2 }
+      },
+      "16": {
+        "start": { "line": 24, "column": 21 },
+        "end": { "line": 26, "column": null }
+      },
+      "17": {
+        "start": { "line": 24, "column": 10 },
+        "end": { "line": 26, "column": null }
+      },
+      "18": {
+        "start": { "line": 28, "column": 4 },
+        "end": { "line": 28, "column": 57 }
+      },
+      "19": {
+        "start": { "line": 28, "column": 24 },
+        "end": { "line": 28, "column": 57 }
+      },
+      "20": {
+        "start": { "line": 30, "column": 4 },
+        "end": { "line": 30, "column": 20 }
+      },
+      "21": {
+        "start": { "line": 32, "column": 4 },
+        "end": { "line": 32, "column": 24 }
+      },
+      "22": {
+        "start": { "line": 36, "column": 19 },
+        "end": { "line": 36, "column": 26 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_15)",
+        "decl": {
+          "start": { "line": 4, "column": 17 },
+          "end": { "line": 4, "column": 24 }
+        },
+        "loc": {
+          "start": { "line": 4, "column": 55 },
+          "end": { "line": 20, "column": 2 }
+        }
+      },
+      "1": {
+        "name": "(anonymous_16)",
+        "decl": {
+          "start": { "line": 4, "column": 55 },
+          "end": { "line": 4, "column": null }
+        },
+        "loc": {
+          "start": { "line": 4, "column": 55 },
+          "end": { "line": 20, "column": 2 }
+        }
+      },
+      "2": {
+        "name": "(anonymous_18)",
+        "decl": {
+          "start": { "line": 22, "column": 16 },
+          "end": { "line": 22, "column": 23 }
+        },
+        "loc": {
+          "start": { "line": 22, "column": 33 },
+          "end": { "line": 34, "column": 2 }
+        }
+      },
+      "3": {
+        "name": "(anonymous_19)",
+        "decl": {
+          "start": { "line": 22, "column": 33 },
+          "end": { "line": 22, "column": null }
+        },
+        "loc": {
+          "start": { "line": 22, "column": 33 },
+          "end": { "line": 34, "column": 2 }
+        }
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 6, "column": 13 },
+          "end": { "line": 6, "column": 40 }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": { "line": 6, "column": 21 },
+            "end": { "line": 6, "column": 36 }
+          },
+          {
+            "start": { "line": 6, "column": 38 },
+            "end": { "line": 6, "column": 40 }
+          }
+        ]
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 7, "column": 14 },
+          "end": { "line": 7, "column": 28 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 7, "column": 14 },
+            "end": { "line": 7, "column": 21 }
+          },
+          {
+            "start": { "line": 7, "column": 25 },
+            "end": { "line": 7, "column": 28 }
+          }
+        ]
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 14, "column": 4 },
+          "end": { "line": 14, "column": 57 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 14, "column": 4 },
+            "end": { "line": 14, "column": 57 }
+          }
+        ]
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 28, "column": 4 },
+          "end": { "line": 28, "column": 57 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 28, "column": 4 },
+            "end": { "line": 28, "column": 57 }
+          }
+        ]
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 0,
+      "11": 2,
+      "12": 0,
+      "13": 2,
+      "14": 2,
+      "15": 2,
+      "16": 2,
+      "17": 2,
+      "18": 1,
+      "19": 0,
+      "20": 1,
+      "21": 1,
+      "22": 2
+    },
+    "f": { "0": 2, "1": 2, "2": 2, "3": 2 },
+    "b": { "0": [1, 1], "1": [2, 2], "2": [0], "3": [0] }
+  },
+  "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\services\\getSets.ts": {
+    "path": "D:\\GitProjects\\Personal\\Vanguard-Database\\js-cardfight-vanguard-library\\src\\services\\getSets.ts",
+    "statementMap": {
+      "0": {
+        "start": { "line": 1, "column": 14 },
+        "end": { "line": 1, "column": 38 }
+      },
+      "1": {
+        "start": { "line": 3, "column": 16 },
+        "end": { "line": 12, "column": 2 }
+      },
+      "2": {
+        "start": { "line": 5, "column": 21 },
+        "end": { "line": 7, "column": null }
+      },
+      "3": {
+        "start": { "line": 5, "column": 10 },
+        "end": { "line": 7, "column": null }
+      },
+      "4": {
+        "start": { "line": 8, "column": 4 },
+        "end": { "line": 8, "column": 30 }
+      },
+      "5": {
+        "start": { "line": 10, "column": 4 },
+        "end": { "line": 10, "column": 22 }
+      },
+      "6": {
+        "start": { "line": 14, "column": 9 },
+        "end": { "line": 14, "column": 16 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_13)",
+        "decl": {
+          "start": { "line": 3, "column": 16 },
+          "end": { "line": 3, "column": null }
+        },
+        "loc": {
+          "start": { "line": 3, "column": 16 },
+          "end": { "line": 12, "column": 2 }
+        }
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 2, "1": 3, "2": 1, "3": 1, "4": 1, "5": 0, "6": 2 },
+    "f": { "0": 2 },
+    "b": {}
+  }
+}
