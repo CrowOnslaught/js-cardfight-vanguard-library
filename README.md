@@ -3,9 +3,9 @@
 ![coverage-functions](https://raw.githubusercontent.com/CrowOnslaught/js-cardfight-vanguard-library/master/coverage/badge-functions.svg)
 ![coverage-lines](https://raw.githubusercontent.com/CrowOnslaught/js-cardfight-vanguard-library/master/coverage/badge-lines.svg)
 ![license](https://img.shields.io/github/license/crowonslaught/js-cardfight-vanguard-library)
-![downloads](https://img.shields.io/npm/dt/ts-cardfight-vanguard-api)
-![version](https://img.shields.io/npm/v/ts-cardfight-vanguard-api)
-[![coffe](https://img.shields.io/badge/buy%20me%20a%20coffe-donate-yellowgreen)](https://www.buymeacoffee.com/CrowOnslaught)
+[![downloads](https://img.shields.io/npm/dt/ts-cardfight-vanguard-api)](https://www.npmjs.com/package/ts-cardfight-vanguard-api)
+[![version](https://img.shields.io/npm/v/ts-cardfight-vanguard-api)](https://www.npmjs.com/package/ts-cardfight-vanguard-api)
+[![coffe](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellowgreen)](https://www.buymeacoffee.com/CrowOnslaught)
 
 ## introduction
 
