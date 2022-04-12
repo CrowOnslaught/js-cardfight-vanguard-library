@@ -3,7 +3,7 @@
 .pnp.js
 
 /build
-
+/lib
 .DS_Store
 *.pem
 

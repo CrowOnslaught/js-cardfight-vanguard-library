@@ -3,7 +3,10 @@
     "outDir": "lib",
     "target": "es6",
     "module": "commonjs",
-    "lib": ["es2015"],
+    "lib": [
+      "ES6",
+      "DOM"
+    ],
     "sourceMap": true,
     "strict": true,
     "strictFunctionTypes": true,
