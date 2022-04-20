@@ -8,7 +8,7 @@ jobs:
   build:
     working_directory: ~/repo
     docker:
-      - image: cimg/node:16.14.2
+      - image: cimg/node:18.0.0
     steps:
       - checkout
       - run: node --version
